@@ -1,0 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
+li {
+    word-wrap: break-word;
+}
